@@ -6,5 +6,3 @@ echo '/opt/openssl/include' >> /etc/ld.so.conf.d/openssl.conf && \
 sudo /sbin/ldconfig 
 
 
-# openssl
-# openssl
